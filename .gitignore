@@ -49,3 +49,4 @@ backups/
 
 # 一次性清理脚本（临时改注释/挪文件用，跑完即弃，不入库）
 .trash
+**/package-lock.json
